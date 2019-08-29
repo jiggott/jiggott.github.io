@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{% include head.html %}
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQVBKT6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {% if page.layout != 'home' %}{% include header.html %}{% endif %}
+    <main aria-label="Content">
+        {{ content }}
+    </main>
+    {% if page.layout != 'home' %}{% include footer.html %}{% endif %}
+</body>
+
+</html>

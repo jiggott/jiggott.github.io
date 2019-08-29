@@ -1,0 +1,106 @@
+---
+layout: post
+date: 2015-12-27
+title: Best of 2015
+description: The best podcasts, music, books, films, places and events of 2015. According to James Higgott.
+tags: Reviews
+socialtitle: 
+socialdescription:
+socialimageurl: /assets/2015.png
+socialimagealt: 2015
+---
+
+These are some things I’ve enjoyed in 2015.
+
+## Podcasts
+
+### Favourite podcast
+It’s been going for several years, but 2015 was the year that I succumbed to [Answer Me This podcast](answermethispodcast.com) with Helen and Olly (and Martin the soundman). The laughs are frequent, the chemistry between the presenters is wonderful and the advice they give is sage.
+
+### Favourite new podcast
+Welcome back to podcasting, [Adam Buxton](http://adam-buxton.co.uk/ad/category/adam-buxton-podcast/). It is a medium that was made for you.
+
+### Favourite podcast episode
+It’s difficult to pick between the [Bradbury Building episode of 99% Invisible](http://99percentinvisible.org/episode/on-location/) and the [Josef Mengele episode of Caustic Soda](http://causticsodapodcast.com/2015/09/14/josef-mengele/). Both are wonderful in their own way.
+
+## Music
+
+### Favourite new band
+[Slug](http://www.slugband.co.uk/)
+
+### Favourite old band
+Todd Rundgren – I still can’t stop listening to [A Wizard, a True Star](https://en.wikipedia.org/wiki/A_Wizard,_a_True_Star).
+
+### Favourite gig
+Slug at the Lexington were tons of fun, Super Furry Animals at Brixton Academy were blissful, but Television at Green Man festival – a band I love and one I never thought I would see live – has to be my musical highlight of 2015.
+
+### Favourite album of 2015
+[Orphaned Deejay Selek 2006-2008](https://bleep.com/release/61781-afx-orphaned-deejay-selek-2006-2008) because new Aphex is always an event.
+
+### Favourite song of 2015
+[Luke Vibert spiral staircase](https://www.youtube.com/watch?v=ZNx7kxtVdQI) from the user48736353001 Soundcloud account. This dump of previously unreleased Aphex Twin tunes was also the most unexpected musical event of 2015.
+
+### Favourite old song
+According to last.fm the song I listened to most often in 2015 was [Let It Bleed by Goat](https://www.youtube.com/watch?v=qn9Li6Sh9BU). That’s a surprise but it’s a great song.
+
+## Books
+
+After dabbling with a Kindle for a few years, I mostly read dead-tree books in 2015.
+
+### Favourite novel I read in 2015
+[Night and the City](https://www.goodreads.com/book/show/948618.Night_and_the_City) by Gerald Kirsch.
+
+### Favourite comic book I read in 2015
+[Three](https://www.goodreads.com/book/show/20638282-three) by Kieron Gillen.
+
+### Favourite non-fiction book I read in 2015
+[The Geek Manifesto: Why Science Matters](https://www.goodreads.com/book/show/13630458-the-geek-manifesto) by Mark Henderson.
+
+### Favourite book that was actually published in 2015
+[Seveneves](https://www.goodreads.com/book/show/22816087-seveneves) by Neal Stephenson.
+
+## Films
+
+### Favourite film from 2015
+Whiplash is pretty much a perfect film and was my favourite from 2015. Mad Max: Fury Road and What We Do In the Shadows were fantastic too. And, importantly, Star Wars passed the don’t-be-shit test.
+
+### Favourite old film that I watched in 2015
+Chinatown (1974).
+
+### Film I am most looking forward to in 2016
+I am really quite excited for High Rise. Ballard!
+
+## Places and events
+
+### Favourite holiday
+Who knew that Northumberland is one of the most beautiful parts of the UK? I had an amazing time there, I only wish it were a bit closer to where I live.
+
+### Favourite day out
+Helping at the Abbotsbury swan round-up is possibly the best thing I did in 2015.
+
+<figure><img src="/assets/abbostbury.jpg" alt="Three people holding swans" /></figure>
+
+### Favourite exhibition
+[Ai Weiwei](https://www.royalacademy.org.uk/exhibition/ai-weiwei) at the RA was fantastic, as was the Deutsche Börse prize at the Photographers’ Gallery (in particular [Ponte City](http://thephotographersgallery.org.uk/mikahel-subotsky-patrick-waterhouse) by Mikhael Subotzky and Patrick Waterhouse). However, my favourite exhibition was the educational, entertaining and incredibly well-designed [Forensics: the anatomy of crime](http://wellcomecollection.org/forensics) at the Wellcome Collection.
+
+### Favourite news story
+Jeremy Corbyn becoming leader of Labour. I have no idea whether he can win a general election in 2020 but at least we will have an effective (and interesting) opposition for the next few years. And he does seem to be inspiring a more people-powered version of politics.
+
+### Favourite work-related news story
+The birth of [NHS Alpha](http://digital.nhs.uk). I’ve been saying for years that the NHS should do something like this.
+
+### Biggest loss
+RIP Terry Pratchett.
+
+## Projects and activities
+
+### Best new activity
+I started several new things in 2015 – drawing, running, climbing, badminton, Python, a yet-to-be-published blog about Crystal Palace – but didn’t really stick with or complete any of them. I must consolidate in 2016.
+
+### Favourite project at work
+I produced a couple of big pieces of work (an [animated infographic of election pledges](http://election.kingsfund.org.uk/pledges/) and an [alternative guide to mental health care](http://www.kingsfund.org.uk/audio-video/alternative-guide-mental-health-care-england)) and we won four Digital Impact awards for our election work. However, the thing I’m most proud of is [this blog about NHS.UK](http://www.kingsfund.org.uk/blog/2015/08/will-nhsuk-be-next-govuk) &ndash; the communications team does not traditionally write blogs, so pitching this, having it accepted and then writing it was quite out of the ordinary.
+
+### Favourite project at home
+I built our Christmas tree ([details here]({% post_url 2015-12-19-homemade-wooden-christmas-tree %})).
+
+<figure><img src="/assets/xmas-tree-5.jpg" alt="Wooden christmas tree" /></figure>
